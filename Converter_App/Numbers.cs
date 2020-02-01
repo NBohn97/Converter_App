@@ -81,11 +81,17 @@ namespace Converter_App
             BigInteger expo = 1;
             var convBinary = "";
 
-            // fix for 0 returning nothing
+            // fix for not being able to divide by zero
             if (decimalNum == 0)
             {
                 convBinary = "0";
                 return convBinary;
+            } 
+            // handles negative values
+            else if (decimalNum.ToString()[0].Equals('-') )
+            {
+                decimalNum = -decimalNum;
+                convBinary = "-" + convBinary;
             }
 
             // finds the previous multiple of 2 to decimalNum (e.g. decimalNum of 23 would return 16 as biglowestExponent)

@@ -1,0 +1,11 @@
+F:\cs\csharp\projects\Converter_App\Converter_App\bin\Debug\netcoreapp3.1\Converter_App.exe
+F:\cs\csharp\projects\Converter_App\Converter_App\bin\Debug\netcoreapp3.1\Converter_App.deps.json
+F:\cs\csharp\projects\Converter_App\Converter_App\bin\Debug\netcoreapp3.1\Converter_App.runtimeconfig.json
+F:\cs\csharp\projects\Converter_App\Converter_App\bin\Debug\netcoreapp3.1\Converter_App.runtimeconfig.dev.json
+F:\cs\csharp\projects\Converter_App\Converter_App\bin\Debug\netcoreapp3.1\Converter_App.dll
+F:\cs\csharp\projects\Converter_App\Converter_App\bin\Debug\netcoreapp3.1\Converter_App.pdb
+F:\cs\csharp\projects\Converter_App\Converter_App\obj\Debug\netcoreapp3.1\Converter_App.csprojAssemblyReference.cache
+F:\cs\csharp\projects\Converter_App\Converter_App\obj\Debug\netcoreapp3.1\Converter_App.AssemblyInfoInputs.cache
+F:\cs\csharp\projects\Converter_App\Converter_App\obj\Debug\netcoreapp3.1\Converter_App.AssemblyInfo.cs
+F:\cs\csharp\projects\Converter_App\Converter_App\obj\Debug\netcoreapp3.1\Converter_App.dll
+F:\cs\csharp\projects\Converter_App\Converter_App\obj\Debug\netcoreapp3.1\Converter_App.pdb

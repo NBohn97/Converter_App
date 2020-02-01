@@ -11,7 +11,7 @@ namespace Converter_App
             double total = 0;
             
             
-            for (/*int repeats = 0; repeats < 1000; repeats++*/;;)
+            for (int repeats = 0; repeats <= 1000; repeats++ /*;;*/)
             {
                 /*
                  * Testing Binary to decimal - Block
@@ -23,15 +23,28 @@ namespace Converter_App
                 Console.WriteLine($"binary '{input}' converted to decimal is '{binaryNumber.BinarytoDecimal()}'\n");
                 */
                 
+                
+                // Normal Input Testing
+                
                 // decimal input
                 var decinput = Numbers.DecimalInput();   // comment out if testing fixed values
                 // new Numbers
-                var decimalNumber = new Numbers(decinput);
+                var decimalNumber = new Numbers(decinput);  // comment out if testing fixed values
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
                 
                 /*
                  * COMMENTED OUT BLOCK BELOW FOR TESTING WITH FIXED VALUES
                  * 
-                var decinput = "9223372036854775807";                          // fixed value for testing purposes
+                var decinput = "1";                          // fixed value for testing purposes
                 var decimalNumber = new Numbers(decinput);
                 
                 // times execution time of DecimalToBinary
@@ -43,10 +56,10 @@ namespace Converter_App
                 total = Math.Round(total + ts , 7);
                 repeats = repeats + 1;
                 mean = Math.Round(total / repeats,7);
-                Console.WriteLine(f" Mean running time after {repeats} repeats: {mean}");
+                Console.WriteLine($" Mean running time after {repeats} repeats: {mean}");
                 
                 Console.WriteLine($"decimal '{decinput}' converted to binary is '{timeStop}'\n");
-                Console.WriteLine($"Function DecimalToBinary Runtime: {ts}")
+                //Console.WriteLine($"Function DecimalToBinary Runtime: {ts}");
                 
                 */
                 

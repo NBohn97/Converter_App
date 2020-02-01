@@ -7,11 +7,13 @@ namespace Converter_App
         private static void Main(string[] args)
         {
 
+            // FOR NUMBERS
+            
             double mean = 0;
             double total = 0;
             
             
-            for (int repeats = 0; repeats <= 1000; repeats++ /*;;*/)
+            for (/*int repeats = 0; repeats <= 1000; repeats++ */ ;;)
             {
                 /*
                  * Testing Binary to decimal - Block
@@ -60,15 +62,28 @@ namespace Converter_App
                 
                 Console.WriteLine($"decimal '{decinput}' converted to binary is '{timeStop}'\n");
                 //Console.WriteLine($"Function DecimalToBinary Runtime: {ts}");
-                
                 */
+                
                 
                 
                 // output input to binary
                 // Console.WriteLine($"decimal '{decinput}' converted to binary is '{decimalNumber.DecimaltoBinary()}'\n");
                 Console.WriteLine($"decimal '{decinput}' converted to binary is '{decimalNumber.DecimaltoBinary()}'\n");
- 
+                
             }
+            
+
+                
+             /*   
+
+                var temperatureInput = Temperatures.TempInput();
+                var temperature = new Temperatures(temperatureInput);
+
+                Console.WriteLine(temperature.CelsiusToKelvin());
+             
+              */
+                
+
         }
     }
 }

@@ -11,7 +11,7 @@ namespace Converter_App
             double total = 0;
             
             
-            for (int repeats = 0; repeats < 1000; repeats++)
+            for (/*int repeats = 0; repeats < 1000; repeats++*/;;)
             {
                 /*
                  * Testing Binary to decimal - Block

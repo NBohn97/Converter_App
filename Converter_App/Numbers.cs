@@ -8,7 +8,7 @@ namespace Converter_App
     {
         public Numbers(string number)
         {
-            Number = number;
+            this.Number = number;
         }
 
 

@@ -16,6 +16,7 @@
           </e>
         </e>
         <e p="Program.cs" t="Include" />
+        <e p="Temperatures.cs" t="Include" />
       </e>
       <e p="Converter_App.sln" t="IncludeFlat" />
       <e p="packages" t="ExcludeRecursive" />

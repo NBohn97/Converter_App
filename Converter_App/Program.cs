@@ -40,7 +40,7 @@ namespace Converter_App
                 //
 
                 // decimal input
-                var decinput = "" + long.MaxValue;//Numbers.DecimalInput();   // comment out if testing fixed values
+                var decinput = Numbers.DecimalInput();   // comment out if testing fixed values
                 // new Numbers
                 var decimalNumber = new Numbers(decinput);  // comment out if testing fixed values
 

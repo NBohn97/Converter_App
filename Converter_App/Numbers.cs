@@ -130,6 +130,49 @@ namespace Converter_App
             return convBinary;
         }
 
+        public string DecimalToBinary2()
+        {
+            var number = long.Parse(Number);
+            string binaryNumberResult = "";
+            //find number that is bigger than userinput
+            BigInteger i = 1;
+            BigInteger[] numbersToCheck = new BigInteger[64];
+            BigInteger BigIntegerArrayStart = 0;
+            for(int j = 0; j <= 100; j++)
+            {
+                if(i <= number)
+                {
+                    numbersToCheck[j] = i;
+                    i *= 2;
+
+                }
+                else if(i > number)
+                {
+                    numbersToCheck[j] = i;
+                    BigIntegerArrayStart = j;
+                    break;
+                }
+            }
+            for(int k = ((int)BigIntegerArrayStart - 1); k >= 0; k--)
+            {
+                if((number - numbersToCheck[k]) < 0)
+                {
+                    binaryNumberResult += "0";
+                }
+                if(number - numbersToCheck[k] > 0)
+                {
+                    number -= (long)numbersToCheck[k];
+                    binaryNumberResult += "1";
+                }
+                if(number - numbersToCheck[k] == 0)
+                {
+                    number -= (long)numbersToCheck[k];
+                    binaryNumberResult += 1;
+                }
+            }
+            return binaryNumberResult;
+        }
+
         public static string DecimalInput()
         {
             string decInputString;

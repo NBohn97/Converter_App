@@ -1,25 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "F:\\cs\\csharp\\projects\\Converter_App\\Converter_App\\Converter_App.csproj": {}
+    "C:\\Users\\me\\Desktop\\user3748_nicob_clone_test\\Converter_App\\Converter_App.csproj": {}
   },
   "projects": {
-    "F:\\cs\\csharp\\projects\\Converter_App\\Converter_App\\Converter_App.csproj": {
+    "C:\\Users\\me\\Desktop\\user3748_nicob_clone_test\\Converter_App\\Converter_App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\cs\\csharp\\projects\\Converter_App\\Converter_App\\Converter_App.csproj",
+        "projectUniqueName": "C:\\Users\\me\\Desktop\\user3748_nicob_clone_test\\Converter_App\\Converter_App.csproj",
         "projectName": "Converter_App",
-        "projectPath": "F:\\cs\\csharp\\projects\\Converter_App\\Converter_App\\Converter_App.csproj",
-        "packagesPath": "C:\\Users\\nbohn\\.nuget\\packages\\",
-        "outputPath": "F:\\cs\\csharp\\projects\\Converter_App\\Converter_App\\obj\\",
+        "projectPath": "C:\\Users\\me\\Desktop\\user3748_nicob_clone_test\\Converter_App\\Converter_App.csproj",
+        "packagesPath": "C:\\Users\\me\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\me\\Desktop\\user3748_nicob_clone_test\\Converter_App\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "F:\\Microsoft\\Xamarin\\NuGet"
-        ],
         "configFilePaths": [
-          "C:\\Users\\nbohn\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\me\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -56,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

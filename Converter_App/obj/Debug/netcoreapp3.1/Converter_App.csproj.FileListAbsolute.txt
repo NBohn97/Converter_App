@@ -9,3 +9,14 @@ F:\cs\csharp\projects\Converter_App\Converter_App\obj\Debug\netcoreapp3.1\Conver
 F:\cs\csharp\projects\Converter_App\Converter_App\obj\Debug\netcoreapp3.1\Converter_App.AssemblyInfo.cs
 F:\cs\csharp\projects\Converter_App\Converter_App\obj\Debug\netcoreapp3.1\Converter_App.dll
 F:\cs\csharp\projects\Converter_App\Converter_App\obj\Debug\netcoreapp3.1\Converter_App.pdb
+C:\Users\me\Desktop\user3748_nicob_clone_test\Converter_App\bin\Debug\netcoreapp3.1\Converter_App.exe
+C:\Users\me\Desktop\user3748_nicob_clone_test\Converter_App\bin\Debug\netcoreapp3.1\Converter_App.deps.json
+C:\Users\me\Desktop\user3748_nicob_clone_test\Converter_App\bin\Debug\netcoreapp3.1\Converter_App.runtimeconfig.json
+C:\Users\me\Desktop\user3748_nicob_clone_test\Converter_App\bin\Debug\netcoreapp3.1\Converter_App.runtimeconfig.dev.json
+C:\Users\me\Desktop\user3748_nicob_clone_test\Converter_App\bin\Debug\netcoreapp3.1\Converter_App.dll
+C:\Users\me\Desktop\user3748_nicob_clone_test\Converter_App\bin\Debug\netcoreapp3.1\Converter_App.pdb
+C:\Users\me\Desktop\user3748_nicob_clone_test\Converter_App\obj\Debug\netcoreapp3.1\Converter_App.csprojAssemblyReference.cache
+C:\Users\me\Desktop\user3748_nicob_clone_test\Converter_App\obj\Debug\netcoreapp3.1\Converter_App.AssemblyInfoInputs.cache
+C:\Users\me\Desktop\user3748_nicob_clone_test\Converter_App\obj\Debug\netcoreapp3.1\Converter_App.AssemblyInfo.cs
+C:\Users\me\Desktop\user3748_nicob_clone_test\Converter_App\obj\Debug\netcoreapp3.1\Converter_App.dll
+C:\Users\me\Desktop\user3748_nicob_clone_test\Converter_App\obj\Debug\netcoreapp3.1\Converter_App.pdb

@@ -55,7 +55,7 @@ namespace Converter_App
                 //class output
                 Console.WriteLine($"decimal '{decinput}' converted to binary is '{decimalNumber.DecimaltoBinary()}'\n");
                 Console.WriteLine($"decimal \"{decinput}\" converted to binary is \"{decimalNumber.DecimalToBinary2()}\"");
-                Console.ReadKey();
+                //Console.ReadKey();
 
 
 

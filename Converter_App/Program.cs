@@ -25,16 +25,7 @@ namespace Converter_App
                 Console.WriteLine($"binary '{input}' converted to decimal is '{binaryNumber.BinarytoDecimal()}'\n");
                 */
 
-
                 // Normal Input Testing
-
-
-
-
-
-
-
-
                 //
                 //input
                 //
@@ -44,21 +35,15 @@ namespace Converter_App
                 // new Numbers
                 var decimalNumber = new Numbers(decinput);  // comment out if testing fixed values
 
-
-
                 //
                 //output
                 //
-
                 // output input to binary
                 // Console.WriteLine($"decimal '{decinput}' converted to binary is '{decimalNumber.DecimaltoBinary()}'\n");
                 //class output
                 Console.WriteLine($"decimal '{decinput}' converted to binary is '{decimalNumber.DecimaltoBinary()}'\n");
                 Console.WriteLine($"decimal \"{decinput}\" converted to binary is \"{decimalNumber.DecimalToBinary2()}\"");
                 //Console.ReadKey();
-
-
-
 
                 /*
                  * COMMENTED OUT BLOCK BELOW FOR TESTING WITH FIXED VALUES
@@ -81,9 +66,6 @@ namespace Converter_App
                 //Console.WriteLine($"Function DecimalToBinary Runtime: {ts}");
                 */
             }
-            
-
-                
              /*   
 
                 var temperatureInput = Temperatures.TempInput();
@@ -92,8 +74,6 @@ namespace Converter_App
                 Console.WriteLine(temperature.CelsiusToKelvin());
              
               */
-                
-
         }
     }
 }
